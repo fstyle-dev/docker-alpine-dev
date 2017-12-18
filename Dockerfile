@@ -1,4 +1,4 @@
-FROM fstyle/alpine-opencv:3.4.0-rc-alpha
+FROM fstyle/alpine-opencv:dnn-s3fd
 
 RUN apk add \
         valgrind \
