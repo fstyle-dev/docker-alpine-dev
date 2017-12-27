@@ -1,4 +1,4 @@
-FROM fstyle/alpine-opencv:3.3.1
+FROM fstyle/alpine-opencv:3.4.0
 
 RUN apk add \
         curl-dev \
